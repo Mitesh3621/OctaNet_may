@@ -19,7 +19,6 @@ Built using core front-end technologies to demonstrate strong fundamentals in UI
 🔗 **To-Do App:**
 [https://your-todo-app-link.com](https://your-todo-app-link.com)
 
-*(Replace with your GitHub Pages or deployed link)*
 
 ---
 
